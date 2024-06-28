@@ -1,3 +1,0 @@
-import{j as r,O as a,S as l}from"./index-1FnqgYnk.js";import{F as s}from"./Footer-M-awKcbx.js";const m=({className:e})=>r.jsxs(r.Fragment,{children:[r.jsxs("div",{className:`dark:bg-[#101010] bg-default-5 dark:text-default-7 text-default-1-dark w-full
-                font-['Noto_Sans_KR'] min-h-full flex flex-col ${e}`,children:[r.jsx("main",{className:`sm:px-[1.875rem] lg:px-[3.75rem] xl:mx-auto max-w-[121.25rem] bg-body pt-[5.938rem]\r
-                    border-x-[0.0625rem] dark:border-x-default-5-dark border-x-default-7 grow w-full`,children:r.jsx("div",{className:"px-6 md:px-10 ",children:r.jsx(a,{})})}),r.jsx(s,{className:"w-full sm:px-[1.875rem] lg:px-[3.75rem] xl:mx-auto max-w-[121.25rem] bg-body"})]}),r.jsx(l,{})]});export{m as default};
